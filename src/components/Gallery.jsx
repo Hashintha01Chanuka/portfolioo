@@ -4,7 +4,7 @@ import p from '../assets/p.png'
 
 const Gallery = () => {
   return (
-    <div id='technology' className='mt-5 text-center border-neutral-800 pb-24'>
+    <div id='projects' className='mt-5 text-center border-neutral-800 pb-24'>
       <h2 className="text-6xl font-bold mb-8">
         Project{" "}
         <span className="bg-gradient-to-r from-orange-500 to-red-700 text-transparent bg-clip-text">
