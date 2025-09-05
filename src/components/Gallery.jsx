@@ -1,14 +1,19 @@
 import React from 'react';
 import l from '../assets/l.png';
+import c from '../assets/c.png'
 import p from '../assets/p.png';
 import m from '../assets/m.png';
+
+
 
 const Gallery = () => {
   const images = [
     { src: l, title: "Mind Up - E-learning platform" },
-    { src: p, title: "Paragon Motors - Online spare parts website" },
+    { src: c, title: "Cricket - Cricket booking Website" },
     { src: m, title: "GoodLook - E-commerce clothing website" },
+    { src: p, title: "Paragon Motors - Online spare parts website" },
     
+
   ];
 
   return (
